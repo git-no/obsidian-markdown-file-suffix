@@ -1,10 +1,10 @@
 {
 	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"name": ".mdx, svx as markdown",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"minAppVersion": "0.10.12",
+	"description": "A plugin for [Obsidian](https://obsidian.md) which allows editing of mdx, sdx files as if they were markdown.",
+	"author": "git-no",
+	"authorUrl": "https://github.com/git-no",
 	"isDesktopOnly": false
 }
