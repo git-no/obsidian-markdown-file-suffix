@@ -8,3 +8,14 @@ A plugin for [Obsidian](https://obsidian.md) which allows editing of mdx, sdx fi
 ## Installation
 
 Install as a regular [Community plugin](https://help.obsidian.md/Advanced+topics/Community+plugins).
+
+### From within Obsidian
+
+From Obsidian v0.9.8, you can activate this plugin within Obsidian by doing the following:
+
+-   Open Settings > Third-party plugin
+-   Make sure Safe mode is **off**
+-   Click Browse community plugins
+-   Search for this plugin
+-   Click Install
+-   Once installed, close the community plugins window and activate the newly installed plugin
