@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-markdown-suffix",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "A plugin for [Obsidian](https://obsidian.md) which allows editing of mdx, sdx files as if they were markdown.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
