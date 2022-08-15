@@ -2,10 +2,10 @@
 
 A plugin for [Obsidian](https://obsidian.md) which allows editing of mdx, sdx files as if they were markdown.
 
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/swissmation/obsidian-markdown-file-suffix?style=for-the-badge&sort=semver)](https://github.com/swissmation/obsidian-markdown-file-suffix/releases/latest)
-![GitHub All Releases](https://img.shields.io/github/downloads/swissmation/obsidian-markdown-file-suffix/total?style=for-the-badge)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/git-no/obsidian-markdown-file-suffix?style=for-the-badge&sort=semver)](https://github.com/git-no/obsidian-markdown-file-suffix/releases/latest)
+![GitHub All Releases](https://img.shields.io/github/downloads/git-no/obsidian-markdown-file-suffix/total?style=for-the-badge)
 
-[![Upload Release Asset](https://github.com/swissmation/obsidian-markdown-file-suffix/actions/workflows/release.yml/badge.svg)](https://github.com/swissmation/obsidian-markdown-file-suffix/actions/workflows/release.yml)
+[![Upload Release Asset](https://github.com/git-no/obsidian-markdown-file-suffix/actions/workflows/release.yml/badge.svg)](https://github.com/git-no/obsidian-markdown-file-suffix/actions/workflows/release.yml)
 
 ## Installation
 
