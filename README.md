@@ -21,3 +21,5 @@ From Obsidian v0.9.8, you can activate this plugin within Obsidian by doing the 
 -   Search for this plugin
 -   Click Install
 -   Once installed, close the community plugins window and activate the newly installed plugin
+
+This project is licensed, the [license information are here](./LICENSE).
