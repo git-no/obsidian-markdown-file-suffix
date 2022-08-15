@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-markdown-suffix",
+	"name": "obsidian-markdown-file-suffix",
 	"version": "1.0.0",
 	"description": "A plugin for [Obsidian](https://obsidian.md) which allows editing of mdx, sdx files as if they were markdown.",
 	"main": "main.js",
@@ -8,8 +8,8 @@
 		"build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
 		"version": "node version-bump.mjs && git add manifest.json versions.json"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": ["obsidian","plugin","mdx-svx-obsidian"],
+	"author": "swissmation",
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^16.11.6",
