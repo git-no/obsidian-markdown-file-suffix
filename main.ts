@@ -5,6 +5,6 @@ export default class MarkdownSuffixPlugin extends Plugin {
 		super.onload();
 
 		// register the view and extensions
-		this.registerExtensions(["mdx", "svx"], "markdown");
+		this.registerExtensions(["mdx", "svx", "rmd"], "markdown");
 	}
 }
